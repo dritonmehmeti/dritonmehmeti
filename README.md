@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dritonmehmeti
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning to code
